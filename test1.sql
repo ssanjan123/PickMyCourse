@@ -41,6 +41,9 @@ CREATE TABLE IF NOT EXISTS `testinform` (
 
 INSERT INTO `testinform` (`id`, `username`, `password`) VALUES
 (1, 'admin', '1234');
+
+INSERT INTO `testinform` (`id`, `username`, `password`) VALUES
+(2, 'admin2', '12345');
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
