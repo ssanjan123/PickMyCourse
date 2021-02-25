@@ -9,6 +9,7 @@ Features Planned for Future Iterations
       * Corresponding grade (optional)
       * Password
       * Profile Picture
+      
 * CGPA calculator
 * Suggested Semester Timetable
    * Giving difficulty of courses
