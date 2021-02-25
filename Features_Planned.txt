@@ -1,7 +1,4 @@
-﻿Features Planned for Future Iterations
-
-
-
+Features Planned for Future Iterations
 
 * Profile Customization page
    * Name 
