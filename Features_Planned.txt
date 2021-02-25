@@ -1,0 +1,18 @@
+﻿Features Planned for Future Iterations
+
+
+
+
+* Profile Customization page
+   * Name 
+   * Email
+   * Major
+   * CGPA
+   * Previous Courses Taken
+      * Corresponding grade (optional)
+      * Password
+      * Profile Picture
+* CGPA calculator
+* Suggested Semester Timetable
+   * Giving difficulty of courses
+* Rate My Prof API implemented for professor ratings
