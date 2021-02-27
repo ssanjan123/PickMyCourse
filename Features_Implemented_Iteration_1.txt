@@ -1,5 +1,0 @@
-Features Implemented in Iteration 1
-* Login page
-* Forgot Password
-* Register
-* Welcome page
