@@ -1,6 +1,8 @@
 This is the README file for our CMPT 276 project, called Pick My Course. Pick My Course helps Simon Fraser University students to select their upcoming schedules based on course diffculty, professor rating, and course load. The aim of our project is to help SFU students be more efficient in their course selection, while also reducing the time spent waiting for an academic advising appointment. 
 
-NOTE: We have tried mulitple times to push into master from branches, but not all files show. Please look at branches to see all files.
+**NOTE: **
+**We have tried mulitple times to push into master from branches, but not all files show. Please look at branches to see all files.
+Our Demo Video for Iteration 1 can be found in resources_text_files branch**
 
 To test our code: 
 
