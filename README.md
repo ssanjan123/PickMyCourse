@@ -11,7 +11,6 @@ Inside the database:
 2. These are the columns we used for the table. Please name your columns the same. Column names are as follow:     username     id     email     password     major     create_datetime. 
 
 
-
 Running Login In and Create Account:
 
 Once a localhost is set up on your computer follow these steps:
@@ -20,6 +19,7 @@ Once a localhost is set up on your computer follow these steps:
 2. 
     a) If you already have an existing account, please use your login credentials. Please press the "login" button.
     b) If there is not login password, create your account by clicking the "Create New Account" button. Enter the information requested, and click "Create An Account". This will redirect you to the login page. Please enter your login credentials, and press the "login" button.
+        Please note: at this point in time, you are able to make 2 different profiles with 1 email. This issue will be looked after in iteration 2.
 3. You are now at the welcome page. This will be your homepage for when we implement future features. 
 
 
