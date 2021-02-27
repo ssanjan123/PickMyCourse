@@ -1,0 +1,31 @@
+﻿Requirement Document Iteration 1
+
+
+Pick My Course is designed to help Simon Fraser University students to choose their courses for the upcoming semester based on gpa, previous courses taken, course load, course difficulty and on professor ratings from Rate My Professor. Each student will have an account where they can register and login, and save their information such as major and past grades. Pick My Course will reduce waiting for appointments with academic advisors and help students to efficiently and wisely choose their courses.
+
+
+
+
+User Stories:
+
+
+Admin - Jack
+
+
+As an admin user, Jack will need to login with admin credentials and view the admin welcome page and profile. Admin will also have access to all the courses, registered users, and passwords. 
+
+
+
+
+New User - Andy
+
+
+As a new user, Andy will need to create an account and provide his information. Then, Andy will be able to login and view his profile. On his profile page he can see the gpa calculator option, the information previously provided, and can provide updated information such as completed courses and gpa.
+
+
+
+
+Existing User - Paul
+
+
+As an existing user, Paul will need to login to his existing account and have access to his profile. On his profile page he can see the gpa calculator option, the information previously provided, and can provide updated information such as completed courses and gpa.
