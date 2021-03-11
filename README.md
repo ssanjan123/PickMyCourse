@@ -1,5 +1,17 @@
 This is the README file for our CMPT 276 project, called Pick My Course. Pick My Course helps Simon Fraser University students to select their upcoming schedules based on course diffculty, professor rating, and course load. The aim of our project is to help SFU students be more efficient in their course selection, while also reducing the time spent waiting for an academic advising appointment. 
 
+*** UPDATES FOR ITERATION 2: ***
+
+We have deployed Pick My Course on Heroku. Here is the link: https://pickmycourse-theapp.herokuapp.com
+
+The CPGA calculator page has been implemented and is accessible from the welcome page after logging in. 
+
+The profile page has been implemented and is also accessible from the welcome page after logging in. Here you can view all of your personal information. The profile customization page is accessible from here by clicking on the edit button. This is where you can change your information. 
+
+
+
+*** Iteration 1 ***
+
 **NOTE: **
 **We have tried mulitple times to push into master from branches, but not all files show. Please look at branches to see all files.
 Our Demo Video for Iteration 1 can be found in resources_text_files branch**
@@ -38,8 +50,6 @@ Once a localhost is set up on your computer follow these steps:
     b) If there is an account associated with the email, a link will be sent to the email account, and a message will appear saying "success,check your email". 
 4. Please check your email. The email will be from p3cncm@gmail.com. It will tell you to "Please click here to login." When clicking "here" it will send you to the login page. The email will also show your username and the changed password. You can use the username and the password in the email to login successfully. 
 5. You will now arrive at the welcome page. This will be your homepage for when we implement future features.
-
-
 
 
 
