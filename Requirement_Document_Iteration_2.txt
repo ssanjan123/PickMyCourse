@@ -7,7 +7,9 @@ Pick My Course is designed to help Simon Fraser University students to choose th
 
 
 User Stories:
-Iteration 2 edits are in blue.
+
+
+*** Please note: These have been updated for Iteration 2 ***
 
 
 
@@ -23,7 +25,7 @@ As an admin user, Jack will need to login with admin credentials and view the ad
 New User - Andy
 
 
-As a new user, Andy will need to create an account and provide his information. Then, Andy will be able to login and view his profile. On his profile page he can see the gpa calculator option, the information previously provided profile page, profile customization page and can provide updated information such as completed courses completed credits and cgpa.
+As a new user, Andy will need to create an account and provide his information. Then, Andy will be able to login and view his profile. On his profile page he can see the gpa calculator option, the profile page, profile customization page and can provide updated information such as completed credits and cgpa.
 
 
 
@@ -31,4 +33,4 @@ As a new user, Andy will need to create an account and provide his information. 
 Existing User - Paul
 
 
-As an existing user, Paul will need to login to his existing account and have access to his profile. On his profile page he can see the gpa calculator option, the information previously provided, and can provide the information previously provided profile page, profile customization page and can provide updated information such as completed courses completed credits and cgpa.
+As an existing user, Paul will need to login to his existing account and have access to his profile. On his profile page he can see the gpa calculator option, the information previously provided, and can provide the profile page, profile customization page and can provide updated information such as completed credits and cgpa.
