@@ -1,0 +1,22 @@
+Features Planned for Future Iterations
+
+
+* User database deployment on Heroku
+* Forgot password
+   * 40% left to complete
+* Profile Customization page
+   * Name 
+   * Email
+   * Major
+   * CGPA
+   * Previous Courses Taken
+      * Corresponding grade (optional for user)
+   * Password
+   * Profile Picture
+* CGPA calculator
+* Suggested Semester Timetable
+   * Course information in database
+   * Giving difficulty of courses
+   * Upcoming semester 
+* Rate My Prof API implemented for professor ratings
+   * Provide ratings on the professors for suggested courses
