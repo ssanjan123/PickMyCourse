@@ -1,5 +1,12 @@
 <?php
+    session_start();
+    
+    ?>
+
+<?php
     include('configuration.php');
+  
+    
     $username = $_POST['user'];
     $password = $_POST['user_pass'];
       
@@ -15,7 +22,14 @@
         $count = mysqli_num_rows($result);
           
         if($count == 1){
+          //session_start();
+           // $_SESSION['login_user'] = $_POST['username'];
+           $_SESSION['login_user'] = $_POST['user'];
+           
             header("location:cover_index.html");
+        //$_SESSION['pic']= $row['pic'];
+
+        
         }
         else{
             echo "<div class='form'>
