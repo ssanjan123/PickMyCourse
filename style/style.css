@@ -1,0 +1,137 @@
+body{
+	height: 100%;
+  background:url("cover_sfu.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+	
+}
+.b-body{
+	position:absolute;
+	left:0px;
+	top:90px;
+	width:100%;
+	height:645px;
+	
+
+}
+#intro1{
+	left:178px;
+	top:20px;
+	font-family:verdana;
+	font-size:20px;
+    color: #fff; /* IE8 proofing */
+    color: rgba(255, 255, 255, .75);
+    border-bottom: 2px solid transparent;
+	height:75px;
+	width:550px;
+}
+#intro10{
+	top:130px;
+	left:178px;
+	width:537px;
+	height:195px;
+    color: #fff; /* IE8 proofing */
+    color: rgba(255, 255, 255, .75);
+    border-bottom: 2px solid transparent;
+}
+#intro2{
+	left:750px;
+	top:20px;
+	font-family:verdana;
+	font-size:30px;
+    color: #fff; /* IE8 proofing */
+    color: rgba(255, 255, 255, .75);
+    border-bottom: 2px solid transparent;
+	font-weight:bold;
+	height:75px;
+	width:500px;
+}
+
+#intro3{
+	left:750px;
+	top:70px;
+	font-family:verdana;
+	font-size:18px;
+    color: #fff; /* IE8 proofing */
+    color: rgba(255, 255, 255, .75);
+    border-bottom: 2px solid transparent;
+	height:50px;
+	width:300px;
+}
+#form3{
+	top:120px;
+	left:750px;
+	font-family:verdana;
+	font-size:20px;
+	color:#142170;
+	width:450px;
+	height:495px;
+	
+}
+#namebox{
+	width:408px;
+	height:40px;
+	border-radius:5px 5px 5px 5px;
+	background:white;
+	padding:10px;
+	font-size:18px;
+	margin-top:8px;
+	border-width: 1px;
+	border-style:solid;
+	border-color: gray;
+}
+#mailbox{
+	width:408px;
+	height:40px;
+	border-radius:5px 5px 5px 5px;
+	background:white;
+	padding:10px;
+	font-size:18px;
+	margin-top:8px;
+	border-width: 1px;
+	border-style:solid;
+	border-color: gray;
+}
+#r-b{
+	font-size:12px;
+	height:15px;
+	width:15px;
+}
+.button2{
+	width:250px;
+	height:40px;
+	left:750px;
+	top:625px;
+	background:green;
+	font-family:verdana;
+	font-size:18px;
+	color:white;
+	border-radius:5px 5px 5px 5px;
+	border-width: 1px;
+	border-style:solid;
+	border-color: gray;
+	cursor:pointer;
+	outline:none;
+	
+}
+#intro4{
+	font-family:verdana;
+	font-size:12px;
+	color:rgb(255, 250, 250);
+	
+}
+#intro5{
+	font-family:verdana;
+	font-size:14px;
+	color:gray;
+	
+}
+.b-body-footer{
+	width:100%;
+	position:absolute;
+	left:0px;
+	height:80px;
+	background:white;
+	top:700px;
+	
+}
