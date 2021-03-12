@@ -2,6 +2,8 @@ This is the README file for our CMPT 276 project, called Pick My Course. Pick My
 
 *** UPDATES FOR ITERATION 2: ***
 
+*** Please Note: Our Demo Video for Iteration 2 can be found in resources_text_files branch and in the docs folder located in master. ***
+
 We have deployed Pick My Course on Heroku. Here is the link: https://pickmycourse-theapp.herokuapp.com
 
 The CPGA calculator page has been implemented and is accessible from the welcome page after logging in. 
