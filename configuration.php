@@ -1,11 +1,12 @@
-<?php
-$host="localhost";
-$user="root";
-$password="";
-$db_name="LoginSystem";
-$con=mysqli_connect($host,$user,$password,$db_name);
-    if(mysqli_connect_errno())
-    {
-        die("Failed to connect with MySQL: ". mysqli_connect_error());  
-    }  
-?>  
+    <?php
+//Get Heroku ClearDB connection information
+$cleardb_url = parse_url(getenv("CLEARDB_JADE_URL"));
+$cleardb_server = $cleardb_url["host"];
+$cleardb_username = $cleardb_url["user"];
+$cleardb_password = $cleardb_url["pass"];
+$cleardb_db = substr($cleardb_url["path"],1);
+$active_group = 'default';
+$query_builder = TRUE;
+// Connect to DB
+$con = mysqli_connect($cleardb_server, $cleardb_username, $cleardb_password, $cleardb_db);
+?>
