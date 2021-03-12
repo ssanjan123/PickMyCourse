@@ -1,0 +1,13 @@
+﻿Features Implemented in Iteration 1
+* Login Page
+* Forgot Password
+   * 60 to 65% completed
+* Create Account
+* Welcome Page
+
+
+Features Implemented in Iteration 2
+* Deployment to Heroku
+* GPA Calculator
+* Profile and Profile customization pages
+* Reset Password was completed
