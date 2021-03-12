@@ -1,0 +1,15 @@
+﻿Features Planned 
+
+
+*** Please note: These have been updated for Iteration 2 ***
+
+
+* Rate My Prof API implemented for professor ratings
+   * Provide ratings on the professors for suggested courses
+   * All team members
+* Warning - Wrong email, Wrong passwords, Uppercase-Lowercase sensitives.
+   * Wait the feedback from TAs
+* Suggested Semester Timetable 
+   * Course information in database
+   * Giving difficulty of courses
+   * Upcoming semester
