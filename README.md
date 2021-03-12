@@ -12,9 +12,7 @@ The profile page has been implemented and is also accessible from the welcome pa
 
 *** Iteration 1 ***
 
-**NOTE: **
-**We have tried mulitple times to push into master from branches, but not all files show. Please look at branches to see all files.
-Our Demo Video for Iteration 1 can be found in resources_text_files branch**
+*** Please Note: Our Demo Video for Iteration 1 can be found in resources_text_files branch and in the docs folder located in master. ***
 
 To test our code: 
 
