@@ -1,4 +1,4 @@
-# Pick My Course - CMPT 276 Project
+# Pick My Course - CMPT 276 Project - Unfortunately shutdown due to new Heroku policies
 
 Welcome to the README file for our CMPT 276 project, Pick My Course. Our project aims to help Simon Fraser University students to select their upcoming schedules based on course difficulty, professor rating, and course load. The goal is to make course selection more efficient and reduce the time spent waiting for academic advising appointments.
 
