@@ -2,7 +2,7 @@
 # Unfortunately backend has shutdown due to new Heroku policies
 
 
-<img src="https://user-images.githubusercontent.com/84153519/213389576-e86cce2a-4f81-4be7-a69d-cd354face57a.png" width="500" height="300">
+<img src="https://user-images.githubusercontent.com/84153519/213389576-e86cce2a-4f81-4be7-a69d-cd354face57a.png" width="600" height="500">
 
 
 Welcome to the README file for our CMPT 276 project, Pick My Course. Our project aims to help Simon Fraser University students to select their upcoming schedules based on course difficulty, professor rating, and course load. The goal is to make course selection more efficient and reduce the time spent waiting for academic advising appointments.
